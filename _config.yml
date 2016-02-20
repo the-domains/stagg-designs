@@ -1,7 +1,7 @@
 name: Stagg Designs
 favicon: null
-layout_spectrum: 0.7090944205410779
-typography_spectrum: 0.3372597354464233
+layout_spectrum: 1
+typography_spectrum: 0.90487
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.7625071241054684
-  lightness: 0.20076682115904987
-  saturation: 0.6980403868947178
-  rhythmicContrast: 0.13193774945102632
+  lightness: 0.9375
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
